@@ -1,0 +1,12 @@
+{
+	"baseUrl": "https://github.com/macchicken/",
+	"integrationFolder": "e2e/tests",
+	"supportFile": "e2e/support/index.ts",
+	"viewportHeight": 1000,
+	"viewportWidth": 1280,
+	"retries": {
+		"runMode": 1,
+		"openMode": 1
+	},
+	"video": false
+}
